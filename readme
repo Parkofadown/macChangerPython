@@ -1,0 +1,4 @@
+Terminal command prompt mac address changer.
+Using file in terminal for example.
+python macAddressChanger.py --help
+python macAddressChanger.py -i eth0 -m 00:11:22:33:44:55
